@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "48b70050-1c3a-4418-a242-d4640139aa77"
+      }
+    },
+    "owner": "cissoreo"
   }
 }
